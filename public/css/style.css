@@ -1,0 +1,9 @@
+#form-errors ul{
+	list-style: none;
+	padding-left: 20px;
+}
+
+#form-errors li{
+	padding-top: 5px;
+
+}
